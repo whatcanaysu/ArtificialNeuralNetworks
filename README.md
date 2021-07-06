@@ -1,2 +1,2 @@
 # ann
-artifical neural networks
+artificial neural networks
